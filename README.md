@@ -28,6 +28,24 @@ The Language Translation System is a Natural Language Processing (NLP) applicati
 4. The translation service processes the input.
 5. The translated text is displayed to the user.
 
+## Input
+
+Text in a selected source language.
+
+**Example:**
+
+* Source Language: English
+* Target Language: Tamil
+* Text: "Good morning"
+
+## Output
+
+**Translated Text:**
+"காலை வணக்கம்"
+
+The application displays the translated text in the selected target language.
+
+
 ## Applications
 
 * Multilingual communication
